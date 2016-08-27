@@ -12,9 +12,9 @@
             "email": "ruesin@gmail.com"
         }
     ],
-    "autoload": {
+    "autoload": [
         "psr-4": {
             "Ruesin\\Malipay\\": "src/Malipay",
         }
-    }   
+    ]   
 }
