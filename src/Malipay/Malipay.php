@@ -1,7 +1,7 @@
 <?php
 namespace  Ruesin\Malipay;
 
-class PayMalipay
+class Malipay
 {
     
     const SIGN_TYPE = 'MD5';
