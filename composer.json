@@ -1,0 +1,20 @@
+{
+    "name": "ruesin/malipay",
+    "description": "Them mobile alipay classes.",
+    "type": "library",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ruesin",
+            "email": "ruesin@163.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Ruesin\\Malipay\\": "src/Malipay",
+        }
+    }   
+}
